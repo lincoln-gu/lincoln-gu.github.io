@@ -4,7 +4,7 @@ markdown: rdiscount
 
 rdiscount:
 
-  extensions: [smart]
+extensions: [smart]
 
 permalink: /:title.html
 
@@ -30,13 +30,13 @@ author: Fábio Madeira
 
 baseurl: /vitae/
 
-title: Chris Turner's Resume
+title: guxueqiao blog
 
-name: Chris Turner
+name: lincoln-gu
 
-email: christurner@me.com
+email: guxueqiao@gmail.com
 
-email_full: mailto:youremail@me.com
+email_full: mailto:guxueqiao@gmail.com
 
 website: github.io/sustain
 
